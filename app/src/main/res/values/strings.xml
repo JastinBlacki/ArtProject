@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArtProject</string>
+    <string name="name">ПРОискусство</string>
+    <string name="art">Живопись</string>
+    <string name="music">Музыка</string>
+    <string name="story">Легенды</string>
+    <string name="poem">Поэзия</string>
+</resources>
